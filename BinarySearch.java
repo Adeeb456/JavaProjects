@@ -39,6 +39,5 @@ class BinarySearchImplementation
 
         return -1 ;
     }
-} public class BinarySearch {
-    
-}
+} 
+
