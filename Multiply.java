@@ -5,6 +5,6 @@ public class Multiply
       int a = 10 ;
       int b = 20 ;
 
-      System.out.prinltn ( a*b ) ;
+      System.out.println ( a*b ) ;
   }   
 }
